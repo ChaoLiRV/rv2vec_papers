@@ -42,6 +42,7 @@ Representation Learning](https://arxiv.org/pdf/1904.09037.pdf)
 ## [Graph embedding](#content)
 
 1. [OpenKE: An Open Toolkit for Knowledge Embedding](https://www.aclweb.org/anthology/D18-2024.pdf)
+([code](https://github.com/thunlp/OpenKE))
 
 1. [RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems](https://arxiv.org/pdf/1803.03467.pdf)
 ([code](https://github.com/hwwang55/RippleNet))
