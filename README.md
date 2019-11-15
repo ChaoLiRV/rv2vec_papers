@@ -53,4 +53,4 @@ Representation Learning](https://arxiv.org/pdf/1904.09037.pdf)
 Heterogeneous Network](https://arxiv.org/pdf/1905.01669v2.pdf)([code](https://github.com/THUDM/GATNE))
 
 1. [Fast Graph Representation Learning with PyTorch Geometric](https://arxiv.org/pdf/1903.02428v3.pdf)
-[[code](https://github.com/rusty1s/pytorch_geometric))
+([code](https://github.com/rusty1s/pytorch_geometric))
