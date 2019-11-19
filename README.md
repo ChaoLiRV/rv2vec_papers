@@ -8,6 +8,9 @@
 1. [Predictive Analysis by Leveraging Temporal User Behavior and
 User Embeddings](http://ryanrossi.com/pubs/CIKM18-pred-analysis-user-embeddings.pdf)
 
+1. [Perceive Your Users in Depth: Learning Universal User
+Representations from Multiple E-commerce Tasks](https://arxiv.org/pdf/1805.10727.pdf)
+
 ## [Product embedding](#content)
 
 1. [ProductNet: a Collection of High-Quality Datasets for Product
