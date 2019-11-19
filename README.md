@@ -49,6 +49,12 @@ Representation Learning](https://arxiv.org/pdf/1904.09037.pdf)
 
 1. [KGAT: Knowledge Graph Attention Network for Recommendation](https://arxiv.org/pdf/1905.07854.pdf)
 
+1. [Scalable Multiplex Network Embedding](https://www.ijcai.org/proceedings/2018/0428.pdf)
+([code](https://github.com/HKUST-KnowComp/MNE))
+
+1. [ANRL: Attributed Network Representation Learning via Deep Neural Networks](https://www.ijcai.org/proceedings/2018/0438.pdf)
+([code](https://github.com/cszhangzhen/ANRL))
+
 1. [Representation Learning for Attributed Multiplex
 Heterogeneous Network](https://arxiv.org/pdf/1905.01669v2.pdf)([code](https://github.com/THUDM/GATNE))
 
