@@ -42,6 +42,9 @@ Representation Learning](https://arxiv.org/pdf/1904.09037.pdf)
 
 1. [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)([code](https://github.com/jadore801120/attention-is-all-you-need-pytorch))
 
+1. [Towards Knowledge-Based Personalized Product Description Generation in E-commerce](https://arxiv.org/pdf/1903.12457.pdf)
+([code](https://github.com/THUDM/KOBE))
+
 ## [Graph embedding](#content)
 
 1. [OpenKE: An Open Toolkit for Knowledge Embedding](https://www.aclweb.org/anthology/D18-2024.pdf)
