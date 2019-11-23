@@ -40,7 +40,7 @@ Representation Learning](https://arxiv.org/pdf/1904.09037.pdf)
 ([code1](https://github.com/facebookresearch/pytext))([code2](https://github.com/prakashpandey9/Text-Classification-Pytorch))
 ([code3](https://github.com/dmlc/gluon-nlp))([code4](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding))
 
-1. [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)([code](https://github.com/jadore801120/attention-is-all-you-need-pytorch))
+1. [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)([code](https://github.com/jadore801120/attention-is-all-you-need-pytorch)) ([very useful blog](http://jalammar.github.io/illustrated-transformer/))
 
 1. [Towards Knowledge-Based Personalized Product Description Generation in E-commerce](https://arxiv.org/pdf/1903.12457.pdf)
 ([code](https://github.com/THUDM/KOBE))
